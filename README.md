@@ -2,7 +2,7 @@
 
 ren@github:~$ whoami
 
-<img src=["YOUR_MAIN_GIF_URL"](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM3OTY1eXl0c3c3enlvb29uYndiZGFqNmFxMjd5NXNjZTRzYXhxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif) width="180">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM3OTY1eXl0c3c3enlvb29uYndiZGFqNmFxMjd5NXNjZTRzYXhxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="180">
 
 engineering student / builder / professional debugger
 
