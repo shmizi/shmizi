@@ -4,7 +4,7 @@ ren@github:~$ whoami
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHM3OTY1eXl0c3c3enlvb29uYndiZGFqNmFxMjd5NXNjZTRzYXhxdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a5viI92PAF89q/giphy.gif" width="180">
 
-engineering student / builder / professional debugger
+engineering student / builder / professional debugger? / unfortunate procrastinator
 
 embedded systems · robotics · ROS · C/C++ · Python
 
@@ -17,9 +17,9 @@ embedded systems · robotics · ROS · C/C++ · Python
 ~/about
 
 name       : ren
-occupation : engineering student
+occupation : 3rd year engineering student
 interests  : robotics, embedded systems, automation
-operating  : mostly on caffeine and questionable decisions
+operating  : mostly on fried rice and questionable decisions
 current    : building stuff + figuring stuff out
 
 I like making things that physically do something — robots, embedded systems,
@@ -45,25 +45,6 @@ Currently exploring:
 * C/C++ and Python
 * Making unnecessarily complicated things work
 
-⸻
-
-~/projects
-
-project_name
-
-Short description of what it does.
-
-C++ ROS OpenCV
-
-[ repository ] · [ demo ]
-
-project_name
-
-Another project that probably started as a “small idea.”
-
-Embedded C 8051 Electronics
-
-[ repository ] · [ documentation ]
 
 ⸻
 
@@ -90,6 +71,7 @@ Embedded C 8051 Electronics
 > spend 3 hours finding the problem
 > discover one missing semicolon
 > pretend this was educational
+> if something works lets maybe not touch it
 
 ⸻
 
