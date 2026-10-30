@@ -4,7 +4,7 @@
 
 </div>
 
-hi, i'm **[Your Name]** ([year] [branch] @ [college]). i make physical things behave: drones, controllers, sensors, and the software around them. they do not always agree to behave.
+hi, i'm **Aarushi** (3rd Year Student). i make physical things behave: drones, controllers, sensors, and the software around them. they do not always agree to behave.
 
 ### ~/in-progress
 
