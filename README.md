@@ -35,6 +35,6 @@ bugs fixed  1 (created 3)
 
 ### ~/reach-me
 
-[linkedin](https://www.linkedin.com/in/your-handle) · your.email@example.com
+[linkedin](https://www.linkedin.com/in/aarushi-r/)) · 
 
 <sub>if something works, let's maybe not touch it</sub>
