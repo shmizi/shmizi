@@ -12,7 +12,7 @@ embedded systems · robotics · ROS · C/C++ · Python
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=building+things+that+move;making+electronics+do+things;debugging+my+own+debugging;currently+probably+in+the+lab" />
 </div>
 
-~/currently-exploring
+### ~/currently-exploring
 
 * ROS / robotics
 * Embedded systems
@@ -21,7 +21,7 @@ embedded systems · robotics · ROS · C/C++ · Python
 * C/C++ and Python
 * Making unnecessarily complicated things work
 
-~/side-quests
+### ~/side-quests
 
 * take apart something that works
 * accidentally make it not work
@@ -29,7 +29,3 @@ embedded systems · robotics · ROS · C/C++ · Python
 * discover one missing semicolon
 * pretend this was educational
 * if something works lets maybe not touch it
-
-⸻
-
-
