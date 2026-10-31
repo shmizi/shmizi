@@ -4,7 +4,7 @@
 
 </div>
 
-hi, i'm **Aarushi** (3rd Year Student). i make physical things behave: drones, controllers, sensors, and the software around them. they do not always agree to behave.
+hi, i'm **Aarushi** (a 3rd Year Student). i make physical things behave: drones, controllers, sensors, and the software around them. they do not always agree to behave.
 
 ### ~/in-progress
 
@@ -35,6 +35,6 @@ bugs fixed  1 (created 3)
 
 ### ~/reach-me
 
-[linkedin](https://www.linkedin.com/in/aarushi-r/)) · 
+[linkedin](https://www.linkedin.com/in/aarushi-r/)
 
-<sub>if something works, let's maybe not touch it</sub>
+<sub>if something works, let's maybe not touch it??</sub>
