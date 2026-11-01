@@ -20,9 +20,11 @@ hi, i'm **Aarushi** (a 3rd Year Student). i make physical things behave: drones,
 
 ### ~/toolbox
 
-* **code:** python · matlab · c/c++ · typescript
-* **hardware:** ESP32 · ArduPilot · PLCs & pneumatics · Fusion 360
-* **also:** OpenCV · React · FastAPI · git
+* **control & robotics:** ADRC & state observers · reinforcement learning (TD3) · quadrotor dynamics · ArduPilot / MAVLink
+* **embedded & hardware:** ESP32 · real-time audio DSP · I2S · Fusion 360
+* **industrial automation:** PLCs & ladder logic · pneumatics · Modbus / OPC UA · machine vision
+* **vision & ML:** OpenCV · projective geometry · scikit-learn · SHAP
+* **code:** python · c/c++ · matlab · typescript · React · FastAPI · git
 
 ### ~/status
 
