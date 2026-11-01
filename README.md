@@ -17,6 +17,8 @@ hi, i'm **Aarushi** (a 3rd Year Student). i make physical things behave: drones,
 
 * **flying my own controller for real:** the cascade-observer quadrotor controller, moved from simulation onto ROS 2 + PX4/ArduPilot SITL in Gazebo, then onto an actual drone
 * **a custom PCB for the DAW:** taking it off the breadboard and onto a board i designed in KiCad
+  
+### ~/toolbox
 
 | area | what i've worked with |
 |---|---|
