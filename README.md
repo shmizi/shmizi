@@ -18,13 +18,13 @@ hi, i'm **Aarushi** (a 3rd Year Student). i make physical things behave: drones,
 * **flying my own controller for real:** the cascade-observer quadrotor controller, moved from simulation onto ROS 2 + PX4/ArduPilot SITL in Gazebo, then onto an actual drone
 * **a custom PCB for the DAW:** taking it off the breadboard and onto a board i designed in KiCad
 
-### ~/toolbox
-
-* **control & robotics:** ADRC & state observers · reinforcement learning (TD3) · quadrotor dynamics · ArduPilot / MAVLink
-* **embedded & hardware:** ESP32 · real-time audio DSP · I2S · Fusion 360
-* **industrial automation:** PLCs & ladder logic · pneumatics · Modbus / OPC UA · machine vision
-* **vision & ML:** OpenCV · projective geometry · scikit-learn · SHAP
-* **code:** python · c/c++ · matlab · typescript · React · FastAPI · git
+| area | what i've worked with |
+|---|---|
+| **control & robotics** | PID to state-space · ADRC & observers · RL-tuned control · Simulink · ArduPilot · ROS 2 (learning) |
+| **industrial automation** | PLCs in ladder, ST & FBD (Siemens TIA Portal, Mitsubishi) · VFDs & servo drives · pneumatic & hydraulic design in Automation Studio · Modbus / OPC UA |
+| **embedded & hardware** | embedded C on ESP32, STM32 & Jetson Orin · UART / SPI / I2C · PCB design in KiCad · Fusion 360 |
+| **vision & ML** | OpenCV · YOLO · TensorFlow · scikit-learn |
+| **languages** | Python · C/C++ · Java · MATLAB · TypeScript · HTML/CSS |
 
 ### ~/status
 
