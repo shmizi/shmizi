@@ -42,3 +42,5 @@ bugs fixed  1 (created 3)
 [linkedin](https://www.linkedin.com/in/aarushi-r/)
 
 <sub>if something works, let's maybe not touch it??</sub>
+
+![profile views](https://komarev.com/ghpvc/?username=shmizi&label=profile%20views&color=555555&style=flat)
